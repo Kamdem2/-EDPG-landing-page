@@ -1,0 +1,11 @@
+<svg width="700" height="500" viewBox="0 0 700 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="story2Grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F4F0FF"/>
+      <stop offset="100%" stop-color="#C5B4F0" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="500" rx="32" fill="url(#story2Grad)"/>
+  <ellipse cx="330" cy="220" rx="180" ry="100" fill="#4B1E91" opacity="0.18"/>
+  <rect x="120" y="320" width="420" height="32" rx="16" fill="#FFF8E6" opacity="0.5"/>
+</svg>
